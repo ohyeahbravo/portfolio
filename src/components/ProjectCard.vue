@@ -16,7 +16,7 @@
 			</h4>
 			<div class="flex flex-row mt-1 items-start">
 				<h2
-					class="text-2xl font-medium text-gray-700 tracking-wide"
+					class="text-xl font-medium text-gray-700 tracking-wide"
 					style="font-family: 'Quicksand', sans-serif"
 				>
 					{{ title }}

@@ -1,8 +1,11 @@
 <template>
 	<div class="flex flex-col w-full items-center divide-y divide-gray-100">
 		<project-card project="thesis" />
-		<project-card project="default" />
-		<project-card project="default" />
+		<project-card project="minidrum" />
+		<project-card project="mtwsm" />
+		<project-card project="budgetmap" />
+		<project-card project="mementen" />
+		<project-card project="memotube" />
 	</div>
 </template>
 

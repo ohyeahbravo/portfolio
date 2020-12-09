@@ -1,15 +1,8 @@
 export const contents = {
 	time: '2020 Summer',
 	title: `A Visual Analysis Tool for Geolocation Inference Methods`,
-	link: 'https://github.com/ohyeahbravo',
-	desc: `In this thesis I developed a visual analytics tool that allows interactive exploration of
-    the results from location inference methods for social media data. The primary aim
-    of the tool is to provide deeper insights into how well the algorithms infer locations,
-    beyond comparisons using conventional evaluation metrics such as error distances or
-    accuracy. Its design invites users to follow an iterative process of visualizing, comparing
-    and creating new sets with its interaction schemes. A dashboard layout is used to accom-
-    modate various types of visualizations as widgets including the map and the n-gram
-    chart.`,
+	link: 'https://github.com/ohyeahbravo/location-extraction-analyzer',
+	desc: `For my master's thesis, I developed a visual analytics tool that allows interactive exploration of the results from location inference methods for social media data, especially tweets. The aim was to provide deeper insights into how well the algorithms work, beyond merely comparing numeric evaluation values. Widgets such as map and n-gram chart accommodates visualization to compare datasets. Its interaction scheme lets users to follow an iterative process of visualizing, comparing and creating new sets to explore the results.`,
 	tools: [
 		'HTML',
 		'CSS',

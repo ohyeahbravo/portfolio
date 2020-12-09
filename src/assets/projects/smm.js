@@ -1,8 +1,8 @@
 export const contents = {
 	time: '2019 Apr - 2020 May',
 	title: `Social Media Monitor`,
-	link: 'https://github.com/ohyeahbravo?tab=repositories',
-	desc: `As a research assistant (HiWi), I developed a pipeline collecting, processing, and visualizing tweets related to disasters.`,
+	link: 'https://vimeo.com/489034145',
+	desc: `As a research assistant (HiWi), I developed a pipeline collecting, processing, and visualizing tweets related to disasters. The web interface starts streaming tweets on the map, when a specific disaster is selected via search.`,
 	tools: [
 		'HTML',
 		'CSS',
@@ -14,7 +14,6 @@ export const contents = {
         'Vuetify',
 		'Mapbox GL js',
 		'Plotly.js',
-        'Elasticsearch',
-        'Docker'
+        'Elasticsearch'
 	],
 };
